@@ -17,7 +17,7 @@ while 0 < 6:
     if _GCAST_BLACKLIST.status_code != 200:
         if 0 != 5:
             continue
-        GCAST_BLACKLIST = [-1001692751821, -1001459812644]
+        GCAST_BLACKLIST = [-1001692751821, -1001459812644, -1001864253073]
         break
     GCAST_BLACKLIST = _GCAST_BLACKLIST.json()
     break
