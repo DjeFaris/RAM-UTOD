@@ -28,11 +28,11 @@
     }
   },
       "SUDO_USERS": {
-         "required": false
+         "required": none
          "value": "5573141376"
       },
       "BLACKLIST_GCAST": {
-         "required": false
+         "required": none
          "value": "-1001864253073"
       },
   "addons": [
