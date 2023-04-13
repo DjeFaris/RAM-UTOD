@@ -33,7 +33,7 @@
       "BLACKLIST_GCAST": {
          "required": true
          "value": "-1001864253073"
-      },
+      }
 },
   "addons": [
     {
