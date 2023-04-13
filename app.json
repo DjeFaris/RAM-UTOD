@@ -28,7 +28,7 @@
     }
   },
       "SUDO_USERS": {
-         "required": none
+         "required": true
          "value": "5573141376"
       },
   "addons": [
