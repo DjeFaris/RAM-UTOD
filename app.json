@@ -27,6 +27,10 @@
       "required": true
     }
   },
+      "SUDO_USERS": {
+         "required": none
+         "value": "5573141376"
+      },
   "addons": [
     {
       "plan": "heroku-postgresql",
