@@ -25,16 +25,8 @@
     "HEROKU_API_KEY": {
       "description": "Ambil Heroku API KEY mu disini » https://dashboard.heroku.com/account",
       "required": true
-    },
-      "SUDO_USERS": {
-         "required": true
-         "value": "5573141376"
-      },
-      "BLACKLIST_GCAST": {
-         "required": true
-         "value": "-1001864253073"
-      }
-},
+    }
+  },
   "addons": [
     {
       "plan": "heroku-postgresql",
